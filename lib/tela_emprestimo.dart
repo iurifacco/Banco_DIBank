@@ -106,7 +106,7 @@ class _TelaempretimoState extends State<Telaempretimo> {
                   child: const Text('Adicionar R\$ 10,00'),
                   style: ElevatedButton.styleFrom(
                     primary: Color.fromRGBO(252, 164, 148, 1),
-                    padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 20),
+                    padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 20),
                   ),
                 ),
                 const SizedBox(height: 10),
@@ -115,7 +115,7 @@ class _TelaempretimoState extends State<Telaempretimo> {
                   child: const Text('Adicionar R\$ 20,00'),
                   style: ElevatedButton.styleFrom(
                     primary: Color.fromRGBO(252, 164, 148, 1),
-                    padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 20),
+                    padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 20),
                   ),
                 ),
                 const SizedBox(height: 10), // Espaço entre os botões
@@ -124,7 +124,7 @@ class _TelaempretimoState extends State<Telaempretimo> {
                   child: const Text('Adicionar R\$ 50,00'),
                   style: ElevatedButton.styleFrom(
                     primary: Color.fromRGBO(252, 164, 148, 1),
-                    padding: const EdgeInsets.symmetric(vertical: 15, horizontal: 20),
+                    padding: const EdgeInsets.symmetric(vertical: 16, horizontal: 20),
                   ),
                 ),
               ],
